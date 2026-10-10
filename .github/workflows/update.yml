@@ -1,4 +1,4 @@
-name: Egloos RSS Auto Update Bot (All-in-One)
+name: YHNews_Graphic RSS Auto Update Bot (All-in-One)
 
 # 2시간 간격 정기 순찰 스케줄 설정
 on:
